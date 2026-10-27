@@ -1,0 +1,27 @@
+Meine LS25-Karte: Berg Und Tal
+
+Kartengroesse: 4 * 4 km
+Felder: 60, nummeriert von 1 bis 60
+Bauernhoefe: 3
+
+Hofe
+Hof 1: Grosser Haupthof im flachen Tal
+Hof 2: Bergbauernhof mit Wiesen und Tieren
+Hof 3: Kleiner Ackerbauhof am Waldrand
+
+Landschaft
+- Berge im Norden und Osten
+- Flaches Tal in der Mitte
+- Kleine Waelder zwischen den Fldern
+- Strassen und Feldwege
+
+Produktionen
+- Saegewerk
+- Molkerei
+- Getreidemuehle
+- Oelmuehle
+- BGA
+
+Felder
+Nummerierte Felder 1 bis 60
+Mischung aus kleinen, mittleren und grossen Feldern
