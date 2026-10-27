@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 
 
-<modDesc descVersion="integer">
+<modDesc descVersion="92">
 
-	<author>string</author>
+	<author>Deine Kartenprojekt</author>
 
-	<version>string</version>
+	<version>1.0.0.0</version>
 	
 	<title>
-		<en>string</en>
-		<de>string</de>
+		<en>Mountain Vally</en>
+		<de>Berg und Tal</de>
 	</title>
 	
 	<description>
-		<en>string</en>
-		<de>string</de>
+		<en>A farming map with three farms, numbered fields, forests and productions.</en>
+		<de>Eine Landwirtschaftskarte mit drei Höfen numerierten Feldern, Wäldern und Produktionen.</de>
 	</description>
 	
-	<iconFilename>string</iconFilename>
+	<iconFilename>map/icon.dds</iconFilename>
 	
-	<multiplayer supported="false" only="false"/>
+	<multiplayer supported="true"/>
 	
 	<storeItems>
 		<storeItem xmlFilename="string"/>
@@ -41,26 +41,26 @@
 	</specializations>
 	
 	<maps>
-		<map filename="string"
-		     id="string"
-		     configFilename="string"
-		     defaultPlaceablesXMLFilename="string"
-		     defaultVehiclesXMLFilename="string"
-		     className="string"
-		     defaultItemsXMLFilename="string"
-		     defaultHandToolsXMLFilename="string">
+		<map filename="map/map.i3d"
+		     id="BergUndTal"
+		     configFilename="map/map.xml""
+		     defaultPlaceablesXMLFilename="map/plaveables.xml"
+		     defaultVehiclesXMLFilename="map/vehicles.xml"
+		     className="Mission00"
+		     defaultItemsXMLFilename="map/items.xml"
+		     defaultHandToolsXMLFilename="map/handTools.xml">
 			 
 			<title>
-				<en>string</en>
-				<de>string</de>
+				<en>Mountain Vally</en>
+				<de>Berg und Tal</de>
 			</title>
 			
 			<description>
-				<en>string</en>
-				<de>string</de>
+				<en>Mountains, fields, three farms and productions</en>
+				<de>Berge, 60 Felder, drei Höfe und Produktionen</de>
 			</description>
 			
-			<iconFilename>string</iconFilename>
+			<iconFilename>map/icon.dds</iconFilename>
 			
 		</map>
 	</maps>
